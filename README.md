@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# Codewars:
+[![codewars](https://www.codewars.com/users/novikofff2001/badges/large)](https://www.codewars.com/users/novikofff2001)
+
+
+
 <!--
 **novikofff2001/novikofff2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![codewars](https://www.codewars.com/users/novikofff2001/badges/large)](https://www.codewars.com/users/novikofff2001)   
+   
