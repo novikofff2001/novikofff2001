@@ -3,7 +3,7 @@
 <!--
 **novikofff2001/novikofff2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![codewars](https://www.codewars.com/users/VovkAndrew/badges/large)](https://www.codewars.com/users/VovkAndrew)
+[![codewars][(https://www.codewars.com/users/VovkAndrew/badges/large)](https://www.codewars.com/users/VovkAndrew)](https://www.codewars.com/users/novikofff2001)
 
 Here are some ideas to get you started:
 
