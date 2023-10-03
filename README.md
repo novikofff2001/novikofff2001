@@ -1,8 +1,8 @@
 ### Hi there, I'm Nikita 👋
 
-# I am Software and System engineer 
+I am Software and System engineer. I am interested in developing drivers for different 
 
-# There is my stack (click on icons and my projects written in this language will open): 
+There is my stack (click on icons and my projects written in this language will open): 
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/novikofff2001?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/novikofff2001?tab=repositories&q=&type=&language=c&sort=)
