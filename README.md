@@ -1,5 +1,8 @@
 ### Hi there, I'm Nikita 👋
 
+I am Software and System engineer 
+
+There is my stack (click on icons and my projects written in this language will open. ): 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/novikofff2001?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/novikofff2001?tab=repositories&q=&type=&language=c&sort=)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -12,6 +15,7 @@
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+[![WireGuard](https://simpleicons.org/icons/wireguard.svg)]
 
 # Codewars:
 [![codewars](https://www.codewars.com/users/novikofff2001/badges/large)](https://www.codewars.com/users/novikofff2001)
