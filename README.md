@@ -10,7 +10,7 @@ There is my stack (click on icons and my projects written in this language will 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-# Also I have Raspberry Pi 4 Model B 8GB at home as home server with this stack:
+Also I have Raspberry Pi 4 Model B 8GB at home as home server with this stack:
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
