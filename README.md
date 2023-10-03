@@ -2,20 +2,18 @@
 
 I am Software and System engineer 
 
-There is my stack (click on icons and my projects written in this language will open. ): 
+There is my stack (click on icons and my projects written in this language will open): 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/novikofff2001?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/novikofff2001?tab=repositories&q=&type=&language=c&sort=)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+Also I have Raspberry Pi 4 Model B 8GB at home as home server with this stack:
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-[![WireGuard](https://simpleicons.org/icons/wireguard.svg)]()
+![WireGuard](https://simpleicons.org/icons/wireguard.svg)
 
 # Codewars:
 [![codewars](https://www.codewars.com/users/novikofff2001/badges/large)](https://www.codewars.com/users/novikofff2001)
