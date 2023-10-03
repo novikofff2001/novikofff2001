@@ -1,6 +1,7 @@
 ### Hi there, I'm Nikita 👋
 
-I am Software and System engineer. I am interested in developing drivers for different 
+I am Software and System engineer. I am interested in developing drivers for different hardware, ex. Raspberry Pi modules. 
+Now I am currently working on software projects as a freelancer.
 
 There is my stack (click on icons and my projects written in this language will open): 
 
