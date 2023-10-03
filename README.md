@@ -1,8 +1,8 @@
 ### Hi there, I'm Nikita 👋
 
-I am Software and System engineer 
+# I am Software and System engineer 
 
-There is my stack (click on icons and my projects written in this language will open): 
+# There is my stack (click on icons and my projects written in this language will open): 
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/novikofff2001?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/novikofff2001?tab=repositories&q=&type=&language=c&sort=)
@@ -10,7 +10,7 @@ There is my stack (click on icons and my projects written in this language will 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-Also I have Raspberry Pi 4 Model B 8GB at home as home server with this stack:
+# Also I have Raspberry Pi 4 Model B 8GB at home as home server with this stack:
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
