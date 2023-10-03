@@ -15,7 +15,7 @@ Also I have Raspberry Pi 4 Model B 8GB at home as home server with this stack:
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![WireGuard](https://img.shields.io/badge/-Wireguard-CA4245?logo=wireguard&logoColor=White)
+![WireGuard](https://img.shields.io/badge/Wireguard-CA4245.svg?style=for-the-badge&logo=wireguard&logoColor=White)
 
 # Codewars:
 [![codewars](https://www.codewars.com/users/novikofff2001/badges/large)](https://www.codewars.com/users/novikofff2001)
