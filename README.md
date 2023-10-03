@@ -15,7 +15,7 @@ There is my stack (click on icons and my projects written in this language will 
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-[![WireGuard](https://simpleicons.org/icons/wireguard.svg)]
+[![WireGuard](https://simpleicons.org/icons/wireguard.svg)]()
 
 # Codewars:
 [![codewars](https://www.codewars.com/users/novikofff2001/badges/large)](https://www.codewars.com/users/novikofff2001)
