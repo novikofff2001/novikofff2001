@@ -1,7 +1,9 @@
 ## Hi there, I'm Nikita 👋
 
 I am Software and System engineer. I am interested in developing drivers for different hardware, ex. Raspberry Pi modules. 
-Now I am currently working on software projects as a freelancer.
+Now I am currently working as QEMU maintainer in Syntacore.
+Upstreamed patches:
+[accel/tcg: Pass actual memop_size to tlb_fill instead of 0](https://lore.kernel.org/all/20251022115213.91457-1-n.novikov@syntacore.com/) -  
 
 There is my stack (click on icons and my projects written in this language will open): 
 
@@ -17,6 +19,8 @@ Also I have Raspberry Pi 4 Model B 8GB at home as home server with this stack:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/Wireguard-%23CA4245.svg?style=for-the-badge&logo=wireguard&logoColor=White)
+
+And Raspbrerry Pi 8GB with this XRAY VPN server and Samba home cloud.
 
 # Codewars:
 [![codewars](https://www.codewars.com/users/novikofff2001/badges/large)](https://www.codewars.com/users/novikofff2001)
